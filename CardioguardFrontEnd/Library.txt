@@ -1,0 +1,4 @@
+npm install @fortawesome/fontawesome-free
+npm install -g yarn
+yarn add @fortawesome/fontawesome-free
+npm install

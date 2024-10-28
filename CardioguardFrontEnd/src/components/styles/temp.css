@@ -1,0 +1,44 @@
+This class represents the container for the slider
+.slider-container {
+    position: relative;
+    width: 100%;
+    padding-top: 50px;
+    margin: auto;
+}
+
+/* This class represents the slider image */
+.slider-image {
+    width: 100%;
+    display: block;
+    height: 600px;
+}
+
+/* This class represents the topic text displayed on the slider */
+.slider-topic {
+    position: absolute;
+    top: 50%; /* Vertically centers the text */
+    left: 50px; /* Adjust the distance from the left edge */
+    transform: translateY(-50%); /* Adjusts for proper vertical centering */
+    color: rgb(190, 126, 7);
+    /* background-color: rgba(0, 0, 0, 0.5); Optional: background color for readability */
+    padding: 10px; /* Optional: padding around the text */
+    font-size: 3rem; /* Adjust font size as needed */
+}
+
+/* This class represents the hover effect on the slider container */
+.slider-container:hover {
+    transform: scale(1.1);
+    transition: transform 0.3s ease-in-out, scale 0.5s ease-in-out;
+}
+
+/* This class represents the next button on the slider */
+.slider-button.next {
+    right: 10px;
+}
+
+/* This class represents the hover effect on the slider button */
+.slider-button:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+

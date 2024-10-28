@@ -1,0 +1,31 @@
+POST            link : http://127.0.0.1:8000/predict
+
+
+
+{
+    "data": {
+        "age":51,
+        "sex": 0,
+        "cp": 0,
+        "trestbps": 130,
+        "chol": 305,
+        "fbs": 0,
+        "restecg": 1,
+        "thalach": 142,
+        "exang": 1,
+        "oldpeak": 1.2,
+        "slope": 1,
+        "ca": 0,
+        "thal": 3
+    }
+}
+
+
+
+OUTPUT in Json: 
+
+{
+    "Accuracy on Test data": "84.11%",
+    "Accuracy on Training data": "86.09%",
+    "Result": "The Person does not show any risk of a Heart Disease"
+}

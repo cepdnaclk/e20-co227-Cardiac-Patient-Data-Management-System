@@ -1,0 +1,3 @@
+pip install Flask pandas scikit-learn flask-cors
+
+npm install concurrently --save-dev

@@ -1,0 +1,8 @@
+.contact-us-body{
+    background-image: url('../../images/index6.jpg');
+    background-size: cover; /* Cover the entire screen */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Prevent image repetition */
+    height: 100vh; /* Full viewport height */
+    width: 100vw; /* Full viewport width */
+}

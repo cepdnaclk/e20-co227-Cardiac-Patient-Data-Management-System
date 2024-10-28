@@ -1,0 +1,1002 @@
+[
+  {
+    "date": "2024-01-01",
+    "doctors": 33.7,
+    "patients": 62.1
+  },
+  {
+    "date": "2024-01-02",
+    "doctors": 40.5,
+    "patients": 96.0
+  },
+  {
+    "date": "2024-01-03",
+    "doctors": 32.3,
+    "patients": 73.7
+  },
+  {
+    "date": "2024-01-04",
+    "doctors": 36.8,
+    "patients": 70.8
+  },
+  {
+    "date": "2024-01-05",
+    "doctors": 38.5,
+    "patients": 67.6
+  },
+  {
+    "date": "2024-01-06",
+    "doctors": 31.3,
+    "patients": 52.5
+  },
+  {
+    "date": "2024-01-07",
+    "doctors": 66.4,
+    "patients": 70.4
+  },
+  {
+    "date": "2024-01-08",
+    "doctors": 38.2,
+    "patients": 82.1
+  },
+  {
+    "date": "2024-01-09",
+    "doctors": 69.5,
+    "patients": 52.9
+  },
+  {
+    "date": "2024-01-10",
+    "doctors": 34.4,
+    "patients": 97.6
+  },
+  {
+    "date": "2024-01-11",
+    "doctors": 59.6,
+    "patients": 85.7
+  },
+  {
+    "date": "2024-01-12",
+    "doctors": 61.8,
+    "patients": 98.7
+  },
+  {
+    "date": "2024-01-13",
+    "doctors": 63.6,
+    "patients": 78.2
+  },
+  {
+    "date": "2024-01-14",
+    "doctors": 30.6,
+    "patients": 78.2
+  },
+  {
+    "date": "2024-01-15",
+    "doctors": 68.0,
+    "patients": 85.6
+  },
+  {
+    "date": "2024-01-16",
+    "doctors": 60.9,
+    "patients": 97.3
+  },
+  {
+    "date": "2024-01-17",
+    "doctors": 36.6,
+    "patients": 52.9
+  },
+  {
+    "date": "2024-01-18",
+    "doctors": 56.4,
+    "patients": 85.7
+  },
+  {
+    "date": "2024-01-19",
+    "doctors": 53.3,
+    "patients": 90.0
+  },
+  {
+    "date": "2024-01-20",
+    "doctors": 58.2,
+    "patients": 71.8
+  },
+  {
+    "date": "2024-01-21",
+    "doctors": 39.7,
+    "patients": 54.8
+  },
+  {
+    "date": "2024-01-22",
+    "doctors": 55.0,
+    "patients": 81.8
+  },
+  {
+    "date": "2024-01-23",
+    "doctors": 55.8,
+    "patients": 82.8
+  },
+  {
+    "date": "2024-01-24",
+    "doctors": 41.3,
+    "patients": 79.4
+  },
+  {
+    "date": "2024-01-25",
+    "doctors": 45.0,
+    "patients": 96.0
+  },
+  {
+    "date": "2024-01-26",
+    "doctors": 60.3,
+    "patients": 73.9
+  },
+  {
+    "date": "2024-01-27",
+    "doctors": 47.6,
+    "patients": 97.7
+  },
+  {
+    "date": "2024-01-28",
+    "doctors": 50.9,
+    "patients": 85.1
+  },
+  {
+    "date": "2024-01-29",
+    "doctors": 56.5,
+    "patients": 98.5
+  },
+  {
+    "date": "2024-01-30",
+    "doctors": 38.4,
+    "patients": 50.4
+  },
+  {
+    "date": "2024-01-31",
+    "doctors": 43.1,
+    "patients": 99.7
+  },
+  {
+    "date": "2024-02-01",
+    "doctors": 30.2,
+    "patients": 87.2
+  },
+  {
+    "date": "2024-02-02",
+    "doctors": 61.6,
+    "patients": 84.8
+  },
+  {
+    "date": "2024-02-03",
+    "doctors": 53.3,
+    "patients": 66.9
+  },
+  {
+    "date": "2024-02-04",
+    "doctors": 63.2,
+    "patients": 81.8
+  },
+  {
+    "date": "2024-02-05",
+    "doctors": 47.4,
+    "patients": 95.0
+  },
+  {
+    "date": "2024-02-06",
+    "doctors": 64.7,
+    "patients": 62.6
+  },
+  {
+    "date": "2024-02-07",
+    "doctors": 61.5,
+    "patients": 67.3
+  },
+  {
+    "date": "2024-02-08",
+    "doctors": 52.5,
+    "patients": 61.4
+  },
+  {
+    "date": "2024-02-09",
+    "doctors": 68.0,
+    "patients": 93.4
+  },
+  {
+    "date": "2024-02-10",
+    "doctors": 37.7,
+    "patients": 74.4
+  },
+  {
+    "date": "2024-02-11",
+    "doctors": 30.1,
+    "patients": 80.3
+  },
+  {
+    "date": "2024-02-12",
+    "doctors": 61.9,
+    "patients": 54.7
+  },
+  {
+    "date": "2024-02-13",
+    "doctors": 65.2,
+    "patients": 69.8
+  },
+  {
+    "date": "2024-02-14",
+    "doctors": 63.6,
+    "patients": 65.9
+  },
+  {
+    "date": "2024-02-15",
+    "doctors": 60.5,
+    "patients": 89.2
+  },
+  {
+    "date": "2024-02-16",
+    "doctors": 58.8,
+    "patients": 94.8
+  },
+  {
+    "date": "2024-02-17",
+    "doctors": 68.7,
+    "patients": 92.8
+  },
+  {
+    "date": "2024-02-18",
+    "doctors": 30.3,
+    "patients": 52.6
+  },
+  {
+    "date": "2024-02-19",
+    "doctors": 54.3,
+    "patients": 96.5
+  },
+  {
+    "date": "2024-02-20",
+    "doctors": 69.4,
+    "patients": 86.7
+  },
+  {
+    "date": "2024-02-21",
+    "doctors": 48.8,
+    "patients": 57.7
+  },
+  {
+    "date": "2024-02-22",
+    "doctors": 62.4,
+    "patients": 81.5
+  },
+  {
+    "date": "2024-02-23",
+    "doctors": 36.9,
+    "patients": 65.2
+  },
+  {
+    "date": "2024-02-24",
+    "doctors": 65.0,
+    "patients": 86.8
+  },
+  {
+    "date": "2024-02-25",
+    "doctors": 39.0,
+    "patients": 64.3
+  },
+  {
+    "date": "2024-02-26",
+    "doctors": 45.4,
+    "patients": 54.0
+  },
+  {
+    "date": "2024-02-27",
+    "doctors": 68.2,
+    "patients": 71.0
+  },
+  {
+    "date": "2024-02-28",
+    "doctors": 45.9,
+    "patients": 83.5
+  },
+  {
+    "date": "2024-02-29",
+    "doctors": 53.5,
+    "patients": 67.0
+  },
+  {
+    "date": "2024-03-01",
+    "doctors": 58.5,
+    "patients": 84.1
+  },
+  {
+    "date": "2024-03-02",
+    "doctors": 58.0,
+    "patients": 56.1
+  },
+  {
+    "date": "2024-03-03",
+    "doctors": 44.3,
+    "patients": 67.7
+  },
+  {
+    "date": "2024-03-04",
+    "doctors": 43.9,
+    "patients": 67.3
+  },
+  {
+    "date": "2024-03-05",
+    "doctors": 67.1,
+    "patients": 50.6
+  },
+  {
+    "date": "2024-03-06",
+    "doctors": 63.2,
+    "patients": 58.1
+  },
+  {
+    "date": "2024-03-07",
+    "doctors": 66.0,
+    "patients": 67.2
+  },
+  {
+    "date": "2024-03-08",
+    "doctors": 32.8,
+    "patients": 54.7
+  },
+  {
+    "date": "2024-03-09",
+    "doctors": 55.4,
+    "patients": 84.3
+  },
+  {
+    "date": "2024-03-10",
+    "doctors": 41.9,
+    "patients": 84.8
+  },
+  {
+    "date": "2024-03-11",
+    "doctors": 57.4,
+    "patients": 94.7
+  },
+  {
+    "date": "2024-03-12",
+    "doctors": 67.4,
+    "patients": 85.0
+  },
+  {
+    "date": "2024-03-13",
+    "doctors": 57.5,
+    "patients": 82.2
+  },
+  {
+    "date": "2024-03-14",
+    "doctors": 32.7,
+    "patients": 68.1
+  },
+  {
+    "date": "2024-03-15",
+    "doctors": 64.9,
+    "patients": 67.5
+  },
+  {
+    "date": "2024-03-16",
+    "doctors": 37.9,
+    "patients": 69.3
+  },
+  {
+    "date": "2024-03-17",
+    "doctors": 60.5,
+    "patients": 81.7
+  },
+  {
+    "date": "2024-03-18",
+    "doctors": 61.0,
+    "patients": 97.3
+  },
+  {
+    "date": "2024-03-19",
+    "doctors": 63.4,
+    "patients": 58.9
+  },
+  {
+    "date": "2024-03-20",
+    "doctors": 44.4,
+    "patients": 69.7
+  },
+  {
+    "date": "2024-03-21",
+    "doctors": 50.8,
+    "patients": 59.8
+  },
+  {
+    "date": "2024-03-22",
+    "doctors": 47.7,
+    "patients": 74.8
+  },
+  {
+    "date": "2024-03-23",
+    "doctors": 49.4,
+    "patients": 52.0
+  },
+  {
+    "date": "2024-03-24",
+    "doctors": 36.5,
+    "patients": 89.8
+  },
+  {
+    "date": "2024-03-25",
+    "doctors": 57.2,
+    "patients": 57.8
+  },
+  {
+    "date": "2024-03-26",
+    "doctors": 43.5,
+    "patients": 90.5
+  },
+  {
+    "date": "2024-03-27",
+    "doctors": 58.3,
+    "patients": 93.0
+  },
+  {
+    "date": "2024-03-28",
+    "doctors": 63.7,
+    "patients": 66.9
+  },
+  {
+    "date": "2024-03-29",
+    "doctors": 45.6,
+    "patients": 53.7
+  },
+  {
+    "date": "2024-03-30",
+    "doctors": 69.6,
+    "patients": 75.1
+  },
+  {
+    "date": "2024-03-31",
+    "doctors": 62.9,
+    "patients": 89.7
+  },
+  {
+    "date": "2024-04-01",
+    "doctors": 55.1,
+    "patients": 68.1
+  },
+  {
+    "date": "2024-04-02",
+    "doctors": 41.4,
+    "patients": 83.5
+  },
+  {
+    "date": "2024-04-03",
+    "doctors": 35.4,
+    "patients": 87.7
+  },
+  {
+    "date": "2024-04-04",
+    "doctors": 59.5,
+    "patients": 85.2
+  },
+  {
+    "date": "2024-04-05",
+    "doctors": 46.8,
+    "patients": 97.4
+  },
+  {
+    "date": "2024-04-06",
+    "doctors": 36.3,
+    "patients": 94.8
+  },
+  {
+    "date": "2024-04-07",
+    "doctors": 41.7,
+    "patients": 54.1
+  },
+  {
+    "date": "2024-04-08",
+    "doctors": 47.7,
+    "patients": 65.1
+  },
+  {
+    "date": "2024-04-09",
+    "doctors": 51.4,
+    "patients": 70.3
+  },
+  {
+    "date": "2024-04-10",
+    "doctors": 38.0,
+    "patients": 77.9
+  },
+  {
+    "date": "2024-04-11",
+    "doctors": 63.8,
+    "patients": 97.4
+  },
+  {
+    "date": "2024-04-12",
+    "doctors": 66.1,
+    "patients": 99.3
+  },
+  {
+    "date": "2024-04-13",
+    "doctors": 54.9,
+    "patients": 99.8
+  },
+  {
+    "date": "2024-04-14",
+    "doctors": 61.3,
+    "patients": 80.8
+  },
+  {
+    "date": "2024-04-15",
+    "doctors": 62.2,
+    "patients": 99.8
+  },
+  {
+    "date": "2024-04-16",
+    "doctors": 33.8,
+    "patients": 71.0
+  },
+  {
+    "date": "2024-04-17",
+    "doctors": 36.3,
+    "patients": 87.8
+  },
+  {
+    "date": "2024-04-18",
+    "doctors": 44.2,
+    "patients": 93.5
+  },
+  {
+    "date": "2024-04-19",
+    "doctors": 65.5,
+    "patients": 64.5
+  },
+  {
+    "date": "2024-04-20",
+    "doctors": 67.8,
+    "patients": 81.0
+  },
+  {
+    "date": "2024-04-21",
+    "doctors": 35.1,
+    "patients": 98.4
+  },
+  {
+    "date": "2024-04-22",
+    "doctors": 36.8,
+    "patients": 84.0
+  },
+  {
+    "date": "2024-04-23",
+    "doctors": 54.6,
+    "patients": 60.9
+  },
+  {
+    "date": "2024-04-24",
+    "doctors": 55.7,
+    "patients": 71.6
+  },
+  {
+    "date": "2024-04-25",
+    "doctors": 47.2,
+    "patients": 87.5
+  },
+  {
+    "date": "2024-04-26",
+    "doctors": 35.9,
+    "patients": 55.7
+  },
+  {
+    "date": "2024-04-27",
+    "doctors": 65.6,
+    "patients": 81.2
+  },
+  {
+    "date": "2024-04-28",
+    "doctors": 34.8,
+    "patients": 73.3
+  },
+  {
+    "date": "2024-04-29",
+    "doctors": 55.7,
+    "patients": 92.1
+  },
+  {
+    "date": "2024-04-30",
+    "doctors": 59.7,
+    "patients": 65.1
+  },
+  {
+    "date": "2024-05-01",
+    "doctors": 47.1,
+    "patients": 93.2
+  },
+  {
+    "date": "2024-05-02",
+    "doctors": 39.0,
+    "patients": 50.0
+  },
+  {
+    "date": "2024-05-03",
+    "doctors": 35.0,
+    "patients": 70.0
+  },
+  {
+    "date": "2024-05-04",
+    "doctors": 48.2,
+    "patients": 89.7
+  },
+  {
+    "date": "2024-05-05",
+    "doctors": 49.6,
+    "patients": 93.4
+  },
+  {
+    "date": "2024-05-06",
+    "doctors": 47.4,
+    "patients": 64.2
+  },
+  {
+    "date": "2024-05-07",
+    "doctors": 36.3,
+    "patients": 59.8
+  },
+  {
+    "date": "2024-05-08",
+    "doctors": 63.5,
+    "patients": 97.1
+  },
+  {
+    "date": "2024-05-09",
+    "doctors": 63.6,
+    "patients": 69.7
+  },
+  {
+    "date": "2024-05-10",
+    "doctors": 47.7,
+    "patients": 87.8
+  },
+  {
+    "date": "2024-05-11",
+    "doctors": 50.4,
+    "patients": 98.1
+  },
+  {
+    "date": "2024-05-12",
+    "doctors": 48.6,
+    "patients": 67.1
+  },
+  {
+    "date": "2024-05-13",
+    "doctors": 39.3,
+    "patients": 85.0
+  },
+  {
+    "date": "2024-05-14",
+    "doctors": 67.3,
+    "patients": 85.4
+  },
+  {
+    "date": "2024-05-15",
+    "doctors": 46.3,
+    "patients": 66.8
+  },
+  {
+    "date": "2024-05-16",
+    "doctors": 61.6,
+    "patients": 65.0
+  },
+  {
+    "date": "2024-05-17",
+    "doctors": 49.5,
+    "patients": 78.5
+  },
+  {
+    "date": "2024-05-18",
+    "doctors": 34.1,
+    "patients": 67.6
+  },
+  {
+    "date": "2024-05-19",
+    "doctors": 44.8,
+    "patients": 53.8
+  },
+  {
+    "date": "2024-05-20",
+    "doctors": 60.6,
+    "patients": 62.2
+  },
+  {
+    "date": "2024-05-21",
+    "doctors": 34.8,
+    "patients": 92.7
+  },
+  {
+    "date": "2024-05-22",
+    "doctors": 65.2,
+    "patients": 70.7
+  },
+  {
+    "date": "2024-05-23",
+    "doctors": 61.1,
+    "patients": 63.4
+  },
+  {
+    "date": "2024-05-24",
+    "doctors": 37.7,
+    "patients": 64.0
+  },
+  {
+    "date": "2024-05-25",
+    "doctors": 32.9,
+    "patients": 75.2
+  },
+  {
+    "date": "2024-05-26",
+    "doctors": 64.5,
+    "patients": 55.9
+  },
+  {
+    "date": "2024-05-27",
+    "doctors": 62.7,
+    "patients": 77.1
+  },
+  {
+    "date": "2024-05-28",
+    "doctors": 52.8,
+    "patients": 77.0
+  },
+  {
+    "date": "2024-05-29",
+    "doctors": 36.8,
+    "patients": 53.7
+  },
+  {
+    "date": "2024-05-30",
+    "doctors": 59.0,
+    "patients": 52.3
+  },
+  {
+    "date": "2024-05-31",
+    "doctors": 42.4,
+    "patients": 93.0
+  },
+  {
+    "date": "2024-06-01",
+    "doctors": 52.1,
+    "patients": 75.0
+  },
+  {
+    "date": "2024-06-02",
+    "doctors": 67.7,
+    "patients": 70.0
+  },
+  {
+    "date": "2024-06-03",
+    "doctors": 31.7,
+    "patients": 55.0
+  },
+  {
+    "date": "2024-06-04",
+    "doctors": 64.1,
+    "patients": 92.2
+  },
+  {
+    "date": "2024-06-05",
+    "doctors": 42.0,
+    "patients": 68.7
+  },
+  {
+    "date": "2024-06-06",
+    "doctors": 56.0,
+    "patients": 68.0
+  },
+  {
+    "date": "2024-06-07",
+    "doctors": 35.4,
+    "patients": 74.1
+  },
+  {
+    "date": "2024-06-08",
+    "doctors": 61.3,
+    "patients": 53.2
+  },
+  {
+    "date": "2024-06-09",
+    "doctors": 35.8,
+    "patients": 86.9
+  },
+  {
+    "date": "2024-06-10",
+    "doctors": 52.0,
+    "patients": 93.1
+  },
+  {
+    "date": "2024-06-11",
+    "doctors": 60.2,
+    "patients": 83.0
+  },
+  {
+    "date": "2024-06-12",
+    "doctors": 33.9,
+    "patients": 86.8
+  },
+  {
+    "date": "2024-06-13",
+    "doctors": 48.8,
+    "patients": 91.4
+  },
+  {
+    "date": "2024-06-14",
+    "doctors": 45.9,
+    "patients": 64.3
+  },
+  {
+    "date": "2024-06-15",
+    "doctors": 62.2,
+    "patients": 87.7
+  },
+  {
+    "date": "2024-06-16",
+    "doctors": 48.4,
+    "patients": 88.8
+  },
+  {
+    "date": "2024-06-17",
+    "doctors": 61.5,
+    "patients": 68.2
+  },
+  {
+    "date": "2024-06-18",
+    "doctors": 35.0,
+    "patients": 83.4
+  },
+  {
+    "date": "2024-06-19",
+    "doctors": 50.6,
+    "patients": 56.7
+  },
+  {
+    "date": "2024-06-20",
+    "doctors": 50.0,
+    "patients": 85.0
+  },
+  {
+    "date": "2024-06-21",
+    "doctors": 41.5,
+    "patients": 68.2
+  },
+  {
+    "date": "2024-06-22",
+    "doctors": 47.9,
+    "patients": 85.5
+  },
+  {
+    "date": "2024-06-23",
+    "doctors": 66.4,
+    "patients": 96.4
+  },
+  {
+    "date": "2024-06-24",
+    "doctors": 50.5,
+    "patients": 59.9
+  },
+  {
+    "date": "2024-06-25",
+    "doctors": 68.6,
+    "patients": 90.8
+  },
+  {
+    "date": "2024-06-26",
+    "doctors": 33.0,
+    "patients": 97.3
+  },
+  {
+    "date": "2024-06-27",
+    "doctors": 36.2,
+    "patients": 54.7
+  },
+  {
+    "date": "2024-06-28",
+    "doctors": 35.3,
+    "patients": 88.6
+  },
+  {
+    "date": "2024-06-29",
+    "doctors": 32.0,
+    "patients": 67.7
+  },
+  {
+    "date": "2024-06-30",
+    "doctors": 62.1,
+    "patients": 90.1
+  },
+  {
+    "date": "2024-07-01",
+    "doctors": 55.5,
+    "patients": 99.4
+  },
+  {
+    "date": "2024-07-02",
+    "doctors": 49.9,
+    "patients": 92.8
+  },
+  {
+    "date": "2024-07-03",
+    "doctors": 60.2,
+    "patients": 58.8
+  },
+  {
+    "date": "2024-07-04",
+    "doctors": 64.4,
+    "patients": 56.7
+  },
+  {
+    "date": "2024-07-05",
+    "doctors": 36.0,
+    "patients": 98.1
+  },
+  {
+    "date": "2024-07-06",
+    "doctors": 67.0,
+    "patients": 53.3
+  },
+  {
+    "date": "2024-07-07",
+    "doctors": 66.8,
+    "patients": 71.2
+  },
+  {
+    "date": "2024-07-08",
+    "doctors": 36.9,
+    "patients": 79.0
+  },
+  {
+    "date": "2024-07-09",
+    "doctors": 33.7,
+    "patients": 94.8
+  },
+  {
+    "date": "2024-07-10",
+    "doctors": 62.3,
+    "patients": 78.8
+  },
+  {
+    "date": "2024-07-11",
+    "doctors": 66.2,
+    "patients": 65.4
+  },
+  {
+    "date": "2024-07-12",
+    "doctors": 64.3,
+    "patients": 96.4
+  },
+  {
+    "date": "2024-07-13",
+    "doctors": 63.3,
+    "patients": 66.4
+  },
+  {
+    "date": "2024-07-14",
+    "doctors": 43.6,
+    "patients": 75.7
+  },
+  {
+    "date": "2024-07-15",
+    "doctors": 66.3,
+    "patients": 97.4
+  },
+  {
+    "date": "2024-07-16",
+    "doctors": 42.7,
+    "patients": 71.4
+  },
+  {
+    "date": "2024-07-17",
+    "doctors": 55.9,
+    "patients": 55.3
+  },
+  {
+    "date": "2024-07-18",
+    "doctors": 49.8,
+    "patients": 90.7
+  }
+]

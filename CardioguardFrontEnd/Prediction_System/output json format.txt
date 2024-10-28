@@ -1,0 +1,9 @@
+   {
+        'Result': result,
+        'Accuracy on Training data': f'{round(training_data_accuracy * 100, 2)}%',
+        'Accuracy on Test data': f'{round(test_data_accuracy * 100, 2)}%'
+    }
+
+
+
+Look at the postman photo in the zip file
