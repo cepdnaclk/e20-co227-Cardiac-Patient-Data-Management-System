@@ -4,13 +4,13 @@ permalink: index.html
 
 # Please update this with your repository name and title
 repository-name: e20-co227-Cardiac-Patient-Data-Management-System
-title:
+title: CardioGuard: Cardiac Patient Data Management System with Machine Learning
 ---
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
 # Project Title
-
+CardioGuard-Cardiac Patient Data Management System with Machine Learning
 ---
 
 <!-- 
@@ -20,29 +20,46 @@ This is a sample image, to show how to add images to your page. To learn more op
  -->
 
 ## Team
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
+
+Meet the team behind CardioGuard:
+-  E/20/262, Tharindu Lakshan, [e20262@eng.pdn.ac.lk](mailto:e20262@eng.pdn.ac.lk)
+-  E/20/266, Pradeep Nilupul, [e20266@eng.pdn.ac.lk](mailto:e20266@eng.pdn.ac.lk)
+-  E/20/084, Pathum Dilhara, [e20084@eng.pdn.ac.lk](mailto:e20084@eng.pdn.ac.lk)
+-  E/20/254, Kavindu Methpura, [e20254@eng.pdn.ac.lk](mailto:e20254@eng.pdn.ac.lk)
+-  E/20/397, Dimantha Thilakasiri, [e20397@eng.pdn.ac.lk](mailto:e20397@eng.pdn.ac.lk)
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Other Sub Topics](#other-sub-topics)
+2. [Technology and Implementation](#technology-and-implementation)
 3. [Links](#links)
 
 ---
 
 ## Introduction
 
- description of the real world problem and solution, impact
+  CardioGuard is a cardiac patient data management system with machine learning. It helps doctors and patients understand the patient's medical condition better, enabling timely and personalized care. The system gives healthcare professionals easy access to patient data for quicker medical attention, while patients can view their health information from anywhere.
 
-## Other Sub Topics
+## Technology and Implementation
+
+1. **Java and Spring Boot**  
+   - The backend was built using Java, fulfilling the requirements of the CO225 module. 
+   - Spring Boot, a robust Java framework, was used for its simplicity and ease of setting up a production-ready backend.
+
+2. **React and Tailwind CSS**  
+   - React was chosen for the frontend, leveraging its component-based architecture for modular development.
+   - Tailwind CSS provided modern styling capabilities that work seamlessly with React, enabling efficient design implementation.
+
+3. **Python for Machine Learning**  
+   - Python facilitated the integration of machine learning models into the project.
+   - Predictive algorithms were developed to assess the risk of heart failure among patients using data from the system, assisting in proactive healthcare.
 
 .....
 
 ## Links
 
-- [Project Repository](https://github.com/cepdnaclk/{{ page.repository-name }}){:target="_blank"}
-- [Project Page](https://cepdnaclk.github.io/{{ page.repository-name}}){:target="_blank"}
+Explore more about CardioGuard:
+- [Project Repository](https://github.com/cepdnaclk/e20-co227-Cardiac-Patient-Data-Management-System){:target="_blank"}
+- [Project Page](https://cepdnaclk.github.io/e20-co227-Cardiac-Patient-Data-Management-System){:target="_blank"}
 - [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
 - [University of Peradeniya](https://eng.pdn.ac.lk/)
 
