@@ -8,7 +8,7 @@ title: CardioGuard - Cardiac Patient Data Management System with Machine Learnin
 ---
 
 <div align="center">
-  <img src="./images/logo.png" alt="CardioGuard Logo" width="150">
+  <img src="./Images/logo.jpg" alt="CardioGuard Logo" width="150">
 </div>
 
 # CardioGuard - Cardiac Patient Data Management System with Machine Learning
