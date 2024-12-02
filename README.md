@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./Images/logo.png" alt="CardioGuard Logo" width="150">
+  <img src="./Images/logo.jpg" alt="CardioGuard Logo" width="150">
 </div>
 
 # CardioGuard  
@@ -35,13 +35,6 @@ Meet the team behind CardioGuard:
 
 ---
 
-## System Architecture
-
-<div align="center">
-  <img src="./images/system-architecture.png" alt="System Architecture" width="700">
-</div>
-
----
 
 ## Features  
 
@@ -70,13 +63,6 @@ Meet the team behind CardioGuard:
 
 ---
 
-## Visual Demo
-
-<div align="center">
-  <img src="./images/demo.gif" alt="Demo GIF" width="600">
-</div>
-
----
 
 ## Links  
 
