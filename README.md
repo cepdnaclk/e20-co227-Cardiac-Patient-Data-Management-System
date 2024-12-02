@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./Images/logo.png" alt="CardioGuard Logo" width="150">
+  <img src="./Images/logo.jpg" alt="CardioGuard Logo" width="150">
 </div>
 
 # CardioGuard  
