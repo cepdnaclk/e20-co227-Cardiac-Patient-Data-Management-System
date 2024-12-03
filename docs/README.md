@@ -49,16 +49,30 @@ CardioGuard is a cardiac patient data management system that leverages machine l
 1. **Java and Spring Boot**
    - Backend developed using Java, fulfilling the requirements of the CO225 module.
    - Spring Boot framework utilized for its simplicity and ease of setting up a production-ready backend.
+<div align="center">
+  <img src="/docs/images/image2.png" alt="Java" width="150">
+</div>
 
 2. **React and Tailwind CSS**
    - React chosen for the frontend, leveraging its component-based architecture for modular development.
    - Tailwind CSS provides modern styling capabilities that work seamlessly with React, enabling efficient design implementation.
+<div align="center">
+  <img src="/docs/images/image3.png" alt="React" width="150">
+</div>
 
 3. **Python for Machine Learning**
    - Python facilitates the integration of machine learning models into the project.
    - Predictive algorithms developed to assess the risk of heart failure among patients using data from the system, assisting in proactive healthcare.
+<div align="center">
+  <img src="/docs/images/image3.png" alt="React" width="150">
+</div>
 
 
+## How our system looks like (Some screenshots)
+
+<div align="right">
+  <img src="/docs/images/image4.png" alt="React" width="150">
+</div>
 ## Links
 
 Explore more about CardioGuard:
