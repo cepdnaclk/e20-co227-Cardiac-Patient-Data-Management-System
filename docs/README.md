@@ -90,7 +90,14 @@ CardioGuard is a cardiac patient data management system that leverages machine l
   <img src="/docs/images/image6.png" alt="Dashboard Screenshot" width="700">
 </div>
 
-### Dashboard
+### Dashboards
+<div align="center">
+  <img src="/docs/images/image7.png" alt="Dashboard Screenshot" width="700">
+</div>
+
+<div align="center">
+  <img src="/docs/images/image8.png" alt="Dashboard Screenshot" width="700">
+</div>
 
 ---
 
