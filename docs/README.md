@@ -8,7 +8,7 @@ title: CardioGuard - Cardiac Patient Data Management System with Machine Learnin
 ---
 
 <div align="center">
-  <img src="./docs/images/logo.jpg" alt="CardioGuard Logo" width="200">
+  <img src="/docs/images/logo.jpg" alt="CardioGuard Logo" width="200">
 </div>
 
 <h1 align="center">CardioGuard - Cardiac Patient Data Management System with Machine Learning</h1>
@@ -55,7 +55,7 @@ CardioGuard is a cardiac patient data management system that leverages machine l
 
 ### 1. Java and Spring Boot
 <div align="center">
-  <img src="./docs/images/image2.png" alt="Java and Spring Boot" width="200">
+  <img src="/docs/images/image2.png" alt="Java and Spring Boot" width="200">
 </div>
 
 - Backend developed using Java, fulfilling the requirements of the CO225 module.
@@ -63,7 +63,7 @@ CardioGuard is a cardiac patient data management system that leverages machine l
 
 ### 2. React and Tailwind CSS
 <div align="center">
-  <img src="./docs/images/image3.png" alt="React and Tailwind CSS" width="200">
+  <img src="/docs/images/image3.png" alt="React and Tailwind CSS" width="200">
 </div>
 
 - React chosen for the frontend, leveraging its component-based architecture for modular development.
@@ -71,7 +71,7 @@ CardioGuard is a cardiac patient data management system that leverages machine l
 
 ### 3. Python for Machine Learning
 <div align="center">
-  <img src="./docs/images/image4.png" alt="Python for Machine Learning" width="200">
+  <img src="/docs/images/image4.png" alt="Python for Machine Learning" width="200">
 </div>
 
 - Python facilitates the integration of machine learning models into the project.
@@ -83,12 +83,12 @@ CardioGuard is a cardiac patient data management system that leverages machine l
 
 ### Home Page
 <div align="center">
-  <img src="./docs/images/image5.png" alt="Home Page Screenshot" width="700">
+  <img src="/docs/images/image5.png" alt="Home Page Screenshot" width="700">
 </div>
 
 ### Dashboard
 <div align="center">
-  <img src="./docs/images/image6.png" alt="Dashboard Screenshot" width="700">
+  <img src="/docs/images/image6.png" alt="Dashboard Screenshot" width="700">
 </div>
 
 ---
