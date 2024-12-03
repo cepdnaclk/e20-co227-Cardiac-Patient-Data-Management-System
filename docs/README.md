@@ -64,14 +64,14 @@ CardioGuard is a cardiac patient data management system that leverages machine l
    - Python facilitates the integration of machine learning models into the project.
    - Predictive algorithms developed to assess the risk of heart failure among patients using data from the system, assisting in proactive healthcare.
 <div align="center">
-  <img src="/docs/images/image3.png" alt="React" width="150">
+  <img src="/docs/images/image4.png" alt="React" width="150">
 </div>
 
 
 ## How our system looks like (Some screenshots)
 
 <div align="right">
-  <img src="/docs/images/image4.png" alt="React" width="150">
+  <img src="/docs/images/image5.png" alt="React" width="150">
 </div>
 ## Links
 
