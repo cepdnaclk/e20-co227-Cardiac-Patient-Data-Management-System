@@ -70,8 +70,8 @@ CardioGuard is a cardiac patient data management system that leverages machine l
 
 ## How our system looks like (Some screenshots)
 
-<div align="right">
-  <img src="/docs/images/image5.png" alt="React" width="150">
+<div align="left">
+  <img src="/docs/images/image5.png" alt="React" width="500">
 </div>
 ## Links
 
