@@ -1,87 +1,68 @@
----
-layout: home
-permalink: index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Switcher</title>
+    <style>
+        /* Basic styling to align the images and center the container */
+        #image-container {
+            display: flex;
+            justify-content: space-between;
+            width: 100%;
+            max-width: 1100px;
+            margin: 0 auto;
+        }
 
-# Please update this with your repository name and title
-repository-name: e20-co227-Cardiac-Patient-Data-Management-System
-title: CardioGuard - Cardiac Patient Data Management System with Machine Learning
----
+        img {
+            width: 500px;
+        }
+    </style>
+</head>
+<body>
+    <div id="image-container">
+        <div align="left">
+            <img src="/docs/images/image5.png" alt="Home" id="image-left">
+        </div>
+        <div align="right">
+            <img src="/docs/images/image6.png" alt="React" id="image-right">
+        </div>
+    </div>
 
-<div align="center">
-  <img src="/docs/images/logo.jpg" alt="CardioGuard Logo" width="150">
-</div>
+    <script>
+        // Array of image sources to cycle through
+        const images = [
+            "/docs/images/image5.png", // First image (left side)
+            "/docs/images/image6.png"  // Second image (right side)
+        ];
 
-# CardioGuard - Cardiac Patient Data Management System with Machine Learning
+        let currentIndex = 0; // Start with the first image
 
----
+        // Function to update the image display based on the current index
+        function updateImages() {
+            const leftImage = document.getElementById('image-left');
+            const rightImage = document.getElementById('image-right');
 
-## Team
+            // Change the images based on the current index
+            leftImage.src = images[(currentIndex % images.length)];
+            rightImage.src = images[(currentIndex + 1) % images.length];
+        }
 
-Meet the team behind CardioGuard:
--  **E/20/262**: Tharindu Lakshan, [e20262@eng.pdn.ac.lk](mailto:e20262@eng.pdn.ac.lk)
--  **E/20/266**: Pradeep Nilupul, [e20266@eng.pdn.ac.lk](mailto:e20266@eng.pdn.ac.lk)
--  **E/20/084**: Pathum Dilhara, [e20084@eng.pdn.ac.lk](mailto:e20084@eng.pdn.ac.lk)
--  **E/20/254**: Kavindu Methpura, [e20254@eng.pdn.ac.lk](mailto:e20254@eng.pdn.ac.lk)
--  **E/20/397**: Dimantha Thilakasiri, [e20397@eng.pdn.ac.lk](mailto:e20397@eng.pdn.ac.lk)
+        // Event listener for keydown to detect arrow keys
+        window.addEventListener('keydown', function(event) {
+            if (event.key === "ArrowRight") {
+                // Move to the next set of images
+                currentIndex++;
+                updateImages();
+            } else if (event.key === "ArrowLeft") {
+                // Move to the previous set of images
+                currentIndex--;
+                updateImages();
+            }
+        });
 
-## Table of Contents
-1. [Introduction](#introduction)
-2. [System Architecture](#system-architecture)
-3. [Features](#features)
-4. [Technology and Implementation](#technology-and-implementation)
-5. [Links](#links)
-
----
-
-## Introduction
-
-CardioGuard is a cardiac patient data management system that leverages machine learning to enhance patient care. It provides healthcare professionals with easy access to patient data, facilitating timely medical attention, while allowing patients to view their health information remotely.
-
-## Features
-
-- **Machine Learning Integration**: Predicts heart failure risks to enable proactive healthcare.
-- **Data Visualization**: Offers graphical representations of patient health data for better understanding.
-- **Remote Accessibility**: Allows patients and doctors to access data from anywhere, enhancing convenience.
-- **Secure Data Storage**: Ensures the safety and privacy of sensitive patient information.
-
-## Technology and Implementation
-
-1. **Java and Spring Boot**
-   - Backend developed using Java, fulfilling the requirements of the CO225 module.
-   - Spring Boot framework utilized for its simplicity and ease of setting up a production-ready backend.
-<div align="center">
-  <img src="/docs/images/image2.png" alt="Java" width="150">
-</div>
-
-2. **React and Tailwind CSS**
-   - React chosen for the frontend, leveraging its component-based architecture for modular development.
-   - Tailwind CSS provides modern styling capabilities that work seamlessly with React, enabling efficient design implementation.
-<div align="center">
-  <img src="/docs/images/image3.png" alt="React" width="150">
-</div>
-
-3. **Python for Machine Learning**
-   - Python facilitates the integration of machine learning models into the project.
-   - Predictive algorithms developed to assess the risk of heart failure among patients using data from the system, assisting in proactive healthcare.
-<div align="center">
-  <img src="/docs/images/image4.png" alt="Python" width="150">
-</div>
-
-
-## How our system looks like (Some screenshots)
-
-<div align="left">
-  <img src="/docs/images/image5.png" alt="Home" width="500">
-</div>
-
-<div align="right">
-  <img src="/docs/images/image5.png" alt="React" width="500">
-</div>
-
-## Links
-
-Explore more about CardioGuard:
-- [Project Repository](https://github.com/cepdnaclk/e20-co227-Cardiac-Patient-Data-Management-System)
-- [Project Page](https://cepdnaclk.github.io/e20-co227-Cardiac-Patient-Data-Management-System)
-- [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
-- [University of Peradeniya](https://eng.pdn.ac.lk/)
+        // Initialize the images on page load
+        updateImages();
+    </script>
+</body>
+</html>
