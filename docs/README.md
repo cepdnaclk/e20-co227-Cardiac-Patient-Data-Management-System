@@ -8,7 +8,7 @@ title: CardioGuard - Cardiac Patient Data Management System with Machine Learnin
 ---
 
 <div align="center">
-  <img src=".docs/images/logo.jpg" alt="CardioGuard Logo" width="150">
+  <img src="/docs/images/logo.jpg" alt="CardioGuard Logo" width="150">
 </div>
 
 # CardioGuard - Cardiac Patient Data Management System with Machine Learning
@@ -37,12 +37,6 @@ Meet the team behind CardioGuard:
 
 CardioGuard is a cardiac patient data management system that leverages machine learning to enhance patient care. It provides healthcare professionals with easy access to patient data, facilitating timely medical attention, while allowing patients to view their health information remotely.
 
-## System Architecture
-
-<div align="center">
-  <img src="./images/system-architecture.png" alt="System Architecture" width="700">
-</div>
-
 ## Features
 
 - **Machine Learning Integration**: Predicts heart failure risks to enable proactive healthcare.
@@ -64,15 +58,6 @@ CardioGuard is a cardiac patient data management system that leverages machine l
    - Python facilitates the integration of machine learning models into the project.
    - Predictive algorithms developed to assess the risk of heart failure among patients using data from the system, assisting in proactive healthcare.
 
-## Live Demo
-
-<div align="center">
-  <a href="https://your-live-demo-link.com" target="_blank">
-    <button style="background-color:#6DB33F; color:white; padding:10px 20px; border:none; border-radius:5px;">
-      Try the Live Demo
-    </button>
-  </a>
-</div>
 
 ## Links
 
