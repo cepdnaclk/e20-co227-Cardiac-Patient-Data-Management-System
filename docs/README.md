@@ -49,6 +49,9 @@ CardioGuard is a cardiac patient data management system that leverages machine l
 1. **Java and Spring Boot**
    - Backend developed using Java, fulfilling the requirements of the CO225 module.
    - Spring Boot framework utilized for its simplicity and ease of setting up a production-ready backend.
+<div align="center">
+  <img src="/docs/images/image2.png" alt="Java" width="150">
+</div>
 
 2. **React and Tailwind CSS**
    - React chosen for the frontend, leveraging its component-based architecture for modular development.
