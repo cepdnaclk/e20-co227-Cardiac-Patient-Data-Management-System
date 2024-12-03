@@ -8,10 +8,10 @@ title: CardioGuard - Cardiac Patient Data Management System with Machine Learnin
 ---
 
 <div align="center">
-  <img src="/docs/images/logo.jpg" alt="CardioGuard Logo" width="150">
+  <img src="/docs/images/logo.jpg" alt="CardioGuard Logo" width="200">
 </div>
 
-# CardioGuard - Cardiac Patient Data Management System with Machine Learning
+<h1 align="center">CardioGuard - Cardiac Patient Data Management System with Machine Learning</h1>
 
 ---
 
@@ -24,11 +24,14 @@ Meet the team behind CardioGuard:
 -  **E/20/254**: Kavindu Methpura, [e20254@eng.pdn.ac.lk](mailto:e20254@eng.pdn.ac.lk)
 -  **E/20/397**: Dimantha Thilakasiri, [e20397@eng.pdn.ac.lk](mailto:e20397@eng.pdn.ac.lk)
 
+---
+
 ## Table of Contents
+
 1. [Introduction](#introduction)
-2. [System Architecture](#system-architecture)
-3. [Features](#features)
-4. [Technology and Implementation](#technology-and-implementation)
+2. [Features](#features)
+3. [Technology and Implementation](#technology-and-implementation)
+4. [System Screenshots](#system-screenshots)
 5. [Links](#links)
 
 ---
@@ -37,6 +40,8 @@ Meet the team behind CardioGuard:
 
 CardioGuard is a cardiac patient data management system that leverages machine learning to enhance patient care. It provides healthcare professionals with easy access to patient data, facilitating timely medical attention, while allowing patients to view their health information remotely.
 
+---
+
 ## Features
 
 - **Machine Learning Integration**: Predicts heart failure risks to enable proactive healthcare.
@@ -44,35 +49,61 @@ CardioGuard is a cardiac patient data management system that leverages machine l
 - **Remote Accessibility**: Allows patients and doctors to access data from anywhere, enhancing convenience.
 - **Secure Data Storage**: Ensures the safety and privacy of sensitive patient information.
 
+---
+
 ## Technology and Implementation
 
-1. **Java and Spring Boot**
-   - Backend developed using Java, fulfilling the requirements of the CO225 module.
-   - Spring Boot framework utilized for its simplicity and ease of setting up a production-ready backend.
+### 1. Java and Spring Boot
 <div align="center">
-  <img src="/docs/images/image2.png" alt="Java" width="150">
+  <img src="/docs/images/image2.png" alt="Java and Spring Boot" width="200">
 </div>
 
-2. **React and Tailwind CSS**
-   - React chosen for the frontend, leveraging its component-based architecture for modular development.
-   - Tailwind CSS provides modern styling capabilities that work seamlessly with React, enabling efficient design implementation.
+- Backend developed using Java, fulfilling the requirements of the CO225 module.
+- Spring Boot framework utilized for its simplicity and ease of setting up a production-ready backend.
+
+### 2. React and Tailwind CSS
 <div align="center">
-  <img src="/docs/images/image3.png" alt="React" width="150">
+  <img src="/docs/images/image3.png" alt="React and Tailwind CSS" width="200">
 </div>
 
-3. **Python for Machine Learning**
-   - Python facilitates the integration of machine learning models into the project.
-   - Predictive algorithms developed to assess the risk of heart failure among patients using data from the system, assisting in proactive healthcare.
+- React chosen for the frontend, leveraging its component-based architecture for modular development.
+- Tailwind CSS provides modern styling capabilities that work seamlessly with React, enabling efficient design implementation.
+
+### 3. Python for Machine Learning
 <div align="center">
-  <img src="/docs/images/image3.png" alt="React" width="150">
+  <img src="/docs/images/image4.png" alt="Python for Machine Learning" width="200">
 </div>
 
+- Python facilitates the integration of machine learning models into the project.
+- Predictive algorithms developed to assess the risk of heart failure among patients using data from the system, assisting in proactive healthcare.
 
-## How our system looks like (Some screenshots)
+---
 
-<div align="right">
-  <img src="/docs/images/image4.png" alt="React" width="150">
+## System Screenshots
+
+### Home Page
+<div align="center">
+  <img src="/docs/images/image5.png" alt="Home Page Screenshot" width="700">
 </div>
+
+<div align="center">
+  <img src="/docs/images/image6.png" alt="Home page Screenshot" width="700">
+</div>
+
+### Dashboards
+<div align="center">
+  <img src="/docs/images/image7.png" alt="Dashboads Screenshot" width="700">
+</div>
+
+<div align="center">
+  <img src="/docs/images/image8.png" alt="Dashboard Screenshot" width="700">
+</div>
+
+<div align="center">
+  <img src="/docs/images/image9.png" alt="Dashboard Screenshot" width="700">
+</div>
+---
+
 ## Links
 
 Explore more about CardioGuard:
@@ -80,3 +111,6 @@ Explore more about CardioGuard:
 - [Project Page](https://cepdnaclk.github.io/e20-co227-Cardiac-Patient-Data-Management-System)
 - [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
 - [University of Peradeniya](https://eng.pdn.ac.lk/)
+
+---
+
