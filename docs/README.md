@@ -33,7 +33,7 @@ Meet the team behind CardioGuard:
 
 ---
 
-## Introduction
+## Introductions
 
 CardioGuard is a cardiac patient data management system that leverages machine learning to enhance patient care. It provides healthcare professionals with easy access to patient data, facilitating timely medical attention, while allowing patients to view their health information remotely.
 
