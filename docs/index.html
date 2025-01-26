@@ -1,167 +1,201 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>CardioGuard - Cardiac Patient Data Management System</title>
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
-  <style>
-    body {
-      font-family: 'Roboto', sans-serif;
-      margin: 0;
-      padding: 0;
-      background-color: #f4f4f9;
-      color: #333;
-      line-height: 1.6;
-    }
-    header {
-      background: #0073e6;
-      color: white;
-      padding: 1rem 0;
-      text-align: center;
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    }
-    header img {
-      width: 100px;
-      margin-bottom: 0.5rem;
-    }
-    header h1 {
-      font-size: 2rem;
-      margin: 0.5rem 0;
-    }
-    section {
-      max-width: 1200px;
-      margin: 2rem auto;
-      padding: 1rem;
-    }
-    section h2 {
-      font-size: 1.8rem;
-      margin-bottom: 1rem;
-      color: #0073e6;
-    }
-    .team, .features, .tech-stack, .screenshots {
-      margin-bottom: 2rem;
-    }
-    .team ul, .features ul {
-      list-style-type: disc; 
-      padding-left: 20px; 
-    }
-    .features ul li {
-      background: none; 
-      padding: 0.8rem;
-      margin: 0.5rem 0;
-      border-radius: 5px;
-      box-shadow: none; 
-    }
-    .tech-stack div {
-      display: flex;
-      align-items: center;
-      margin-bottom: 1.5rem;
-    }
-    .tech-stack img {
-      width: 100px;
-      margin-right: 1rem;
-    }
-    .tech-stack p {
-      font-size: 1rem;
-      margin: 0;
-    }
-    .screenshots img {
-      width: 100%;
-      border-radius: 8px;
-      margin-bottom: 1rem;
-      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
-      transition: transform 0.3s ease;
-    }
-    .screenshots img:hover {
-      transform: scale(1.05);
-    }
-    .links a {
-      display: inline-block;
-      background: #0073e6;
-      color: white;
-      text-decoration: none;
-      padding: 0.8rem 1.2rem;
-      margin: 0.5rem;
-      border-radius: 5px;
-      transition: background 0.3s ease;
-    }
-    .links a:hover {
-      background: #005bb5;
-    }
-    footer {
-      text-align: center;
-      padding: 1rem;
-      background: #333;
-      color: white;
-    }
-  </style>
-</head>
-<body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CardioGuard - Cardiac Patient Data Management System</title>
+    <style>
+      body {
+        font-family: "Roboto", sans-serif;
+        background-color: #1a1a1a; /* Black background */
+        color: #4b4b4b; /* Gray-600 text color */
+        line-height: 1.6;
+        margin: 0;
+        padding: 0;
+      }
 
-<header>
-  <img src="images/logo.jpg" alt="CardioGuard Logo">
-  <h1>CardioGuard</h1>
-  <p>Cardiac Patient Data Management System with Machine Learning</p>
-</header>
+      header {
+        background-color: #000000; /* Black header */
+        color: white;
+        padding: 1.5rem 0; /* Reduced padding */
+        text-align: center;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      }
 
-<section>
-  <div class="team">
-    <h2>Team</h2>
-    <ul>
-      <li><strong>E/20/262:</strong> Tharindu Lakshan (<a href="mailto:e20262@eng.pdn.ac.lk">e20262@eng.pdn.ac.lk</a>)</li>
-      <li><strong>E/20/266:</strong> Pradeep Nilupul (<a href="mailto:e20266@eng.pdn.ac.lk">e20266@eng.pdn.ac.lk</a>)</li>
-      <li><strong>E/20/084:</strong> Pathum Dilhara (<a href="mailto:e20084@eng.pdn.ac.lk">e20084@eng.pdn.ac.lk</a>)</li>
-      <li><strong>E/20/254:</strong> Kavindu Methpura (<a href="mailto:e20254@eng.pdn.ac.lk">e20254@eng.pdn.ac.lk</a>)</li>
-      <li><strong>E/20/397:</strong> Dimantha Thilakasiri (<a href="mailto:e20397@eng.pdn.ac.lk">e20397@eng.pdn.ac.lk</a>)</li>
-    </ul>
-  </div>
+      header h1 {
+        font-size: 2rem; /* Reduced font size */
+        margin: 0.5rem 0;
+      }
 
-  <div class="features">
-    <h2>Features</h2>
-    <ul>
-      <li>Machine Learning Integration: Predicts heart failure risks to enable proactive healthcare.</li>
-      <li>Data Visualization: Offers graphical representations of patient health data for better understanding.</li>
-      <li>Remote Accessibility: Allows patients and doctors to access data from anywhere, enhancing convenience.</li>
-      <li>Secure Data Storage: Ensures the safety and privacy of sensitive patient information.</li>
-    </ul>
-  </div>
+      header p {
+        font-size: 1rem; /* Reduced font size */
+        margin: 0;
+      }
 
-  <div class="tech-stack">
-    <h2>Technology and Implementation</h2>
-    <div>
-      <img src="images/image2.png" alt="Java and Spring Boot">
-      <p><strong>Java and Spring Boot:</strong> Backend developed using Java, with Spring Boot for ease of production-ready setups.</p>
-    </div>
-    <div>
-      <img src="images/image3.png" alt="React and Tailwind CSS">
-      <p><strong>React and Tailwind CSS:</strong> Modular front-end development with efficient styling.</p>
-    </div>
-    <div>
-      <img src="images/image4.png" alt="Python for Machine Learning">
-      <p><strong>Python:</strong> Integrates machine learning models to assess risks and improve healthcare.</p>
-    </div>
-  </div>
+      section {
+        max-width: 1200px;
+        margin: 2rem auto;
+        padding: 0 1rem;
+      }
 
-  <div class="screenshots">
-    <h2>System Screenshots</h2>
-    <img src="images/image5.png" alt="Home Page Screenshot">
-    <img src="images/image6.png" alt="Dashboard Screenshot">
-    <img src="images/image7.png" alt="Graphs Screenshot">
-  </div>
+      h2 {
+        font-size: 1.8rem;
+        margin-bottom: 1rem;
+        color: #ffffff; /* White headings */
+      }
 
-  <div class="links">
-    <h2>Links</h2>
-    <a href="https://github.com/cepdnaclk/e20-co227-Cardiac-Patient-Data-Management-System" target="_blank">Project Repository</a>
-    <a href="https://cepdnaclk.github.io/e20-co227-Cardiac-Patient-Data-Management-System" target="_blank">Project Page</a>
-    <a href="http://www.ce.pdn.ac.lk/" target="_blank">Department of Computer Engineering</a>
-    <a href="https://eng.pdn.ac.lk/" target="_blank">University of Peradeniya</a>
-  </div>
-</section>
+      .team,
+      .features,
+      .tech-stack,
+      .screenshots {
+        margin-bottom: 2rem;
+      }
 
-<footer>
-  <p>&copy; 2024 CardioGuard Team</p>
-</footer>
+      .team ul,
+      .features ul {
+        list-style-type: disc;
+        padding-left: 20px;
+      }
 
-</body>
+      .team ul li,
+      .features ul li {
+        padding: 0.5rem 0;
+        color: #ffffff; /* White text for lists */
+      }
+
+      .tech-stack div {
+        display: flex;
+        align-items: center;
+        margin-bottom: 1.5rem;
+      }
+
+      .tech-stack img {
+        width: 100px;
+        margin-right: 1rem;
+      }
+
+      .tech-stack p {
+        font-size: 1.1rem;
+        color: #ffffff; /* White text for tech stack descriptions */
+      }
+
+      .screenshots img {
+        width: 100%;
+        max-width: 700px;
+        border-radius: 8px;
+        margin-bottom: 1rem;
+        transition: transform 0.3s ease;
+      }
+
+      .screenshots img:hover {
+        transform: scale(1.05);
+      }
+
+      .screenshots .grid-container {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr); /* Two columns */
+        gap: 1rem; /* Space between images */
+      }
+
+      .links a {
+        display: inline-block;
+        background-color: #333333; /* Gray-600 background for links */
+        color: white;
+        text-decoration: none;
+        padding: 0.6rem 1rem; /* Reduced padding for thinner look */
+        margin: 0.5rem;
+        border-radius: 30px; /* More rounded corners */
+        transition: background 0.3s ease;
+      }
+
+      .links a:hover {
+        background-color: #4b4b4b; /* Gray-600 hover effect */
+      }
+
+      footer {
+        text-align: center;
+        padding: 0.8rem 0; /* Reduced padding */
+        background-color: #333333; /* Gray-600 footer */
+        color: white;
+      }
+
+      footer p {
+        font-size: 0.9rem; /* Reduced font size */
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Lightify</h1>
+      <p>Smart Indoor Light Control & Automation System</p>
+    </header>
+
+    <section>
+      <div class="team">
+        <h2>Team</h2>
+        <ul>
+          <li>
+            <strong>E/20/262:</strong> Tharindu Lakshan (<a
+              href="mailto:e20262@eng.pdn.ac.lk"
+              >e20262@eng.pdn.ac.lk</a
+            >)
+          </li>
+          <li>
+            <strong>E/20/266:</strong> Pradeep Nilupul (<a
+              href="mailto:e20266@eng.pdn.ac.lk"
+              >e20266@eng.pdn.ac.lk</a
+            >)
+          </li>
+          <li>
+            <strong>E/20/449:</strong> Sandaru Wijewardhana (<a
+              href="mailto:e20449@eng.pdn.ac.lk"
+              >e20449@eng.pdn.ac.lk</a
+            >)
+          </li>
+          <li>
+            <strong>E/20/288:</strong> Chalaka Perera (<a
+              href="mailto:e20288@eng.pdn.ac.lk"
+              >e20288@eng.pdn.ac.lk</a
+            >)
+          </li>
+        </ul>
+      </div>
+
+      <div class="screenshots">
+        <h2>Solution Architecture</h2>
+        <img src="images/SolutionArchitecture.png" alt="Solution Architecture" />
+        
+        <h2>Components & DataFlow</h2>
+        <div class="grid-container">
+          <img src="images/Components&DataFlow.png" alt="Components & DataFlow" />
+          <img src="images/Components&DataFlowExplained.png" alt="Components & DataFlow Explained" />
+        </div>
+      </div>
+
+      <div class="links">
+        <h2>Links</h2>
+        <a
+          href="https://github.com/cepdnaclk/e20-3yp-Smart-IOT-Indoor-Lighting-System"
+          target="_blank"
+          >Lightify - Project Repository</a
+        >
+        <a
+          href="https://cepdnaclk.github.io/e20-3yp-Smart-IOT-Indoor-Lighting-System"
+          target="_blank"
+          >Lightify - Project Page</a
+        >
+        <a href="http://www.ce.pdn.ac.lk/" target="_blank"
+          >Department of Computer Engineering</a
+        >
+        <a href="https://eng.pdn.ac.lk/" target="_blank"
+          >University of Peradeniya</a
+        >
+      </div>
+    </section>
+
+    <footer>
+      <p>&copy; 2025 Lightify Team</p>
+    </footer>
+  </body>
 </html>
